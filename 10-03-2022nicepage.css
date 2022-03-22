@@ -1,0 +1,990 @@
+.main_container {
+    height: 67rem;
+    padding: 0 !important;
+}
+
+.whatwedo {
+    letter-spacing: 2px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.navbar_main {
+    padding-left: 80rem !important;
+    margin-top: 6rem;
+}
+
+.row11 {
+    margin-top: -7rem;
+}
+
+.row12 {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.container12 {
+    margin-top: 7rem;
+}
+
+.navbar_list {
+    display: flex;
+    background-color: #f2f2f2;
+    top: 0px !important;
+    z-index: 8;
+    position: fixed !important;
+    width: 100%;
+}
+
+.pagelist {
+    display: flex;
+    list-style: none;
+    column-gap: 3rem;
+    padding-left: 30rem;
+}
+
+.logo {
+    margin-top: 4px;
+    margin-left: 82px;
+}
+
+i {
+    font-size: 1.5rem !important;
+    padding-left: 10px;
+}
+
+.background_img_nicepage {
+    width: 1128px;
+    height: 100%!important;
+    object-fit: cover;
+}
+
+.interior_design {
+    background-color: #355247;
+    color: white;
+    position: relative !important;
+    width: 559px;
+    min-height: 367px;
+    background-image: none;
+    margin: 60px 155px 60px auto;
+    text-align: left;
+    padding-left: 37px;
+    padding-top: 50px;
+    top: -41.8rem;
+}
+
+.decoration {
+    font-size: 3.75rem !important;
+    font-weight: 100 !important;
+    line-height: 1.1;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+#circle {
+    width: 144px;
+    height: 144px;
+    background-image: none;
+    margin: 24px auto 0 10px;
+    background: #d9ca9e;
+    border-radius: 50%;
+}
+
+.svg1 {
+    fill: #355247 !important;
+    width: 110px !important;
+    height: 110px !important;
+    margin: -68px 59px 1px 479px !important;
+    border-radius: 50%;
+}
+
+.nicepageimg2 {
+    border-radius: 50%;
+    width: 494px;
+    height: 494px;
+    margin: 10px auto 0;
+}
+
+.description {
+    padding: 30px;
+    padding-top: 145px;
+    text-align: left;
+}
+
+.work {
+    line-height: 1;
+    font-size: 3.75rem;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.description_work {
+    font-size: 1.25rem;
+    line-height: 2;
+    margin: 30px 0 0;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.card1_description {
+    text-transform: uppercase;
+    letter-spacing: 2px !important;
+    margin: 67px auto 0;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400;
+    font-size: 1.25rem !important;
+    line-height: 1.2;
+}
+
+.line {
+    height: 51px;
+    transform-origin: center top;
+    width: 4px;
+    margin: 42px auto 0;
+    border-style: solid;
+    color: white;
+}
+
+.niceimg3 {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+}
+
+.sample-text {
+    text-align: center;
+    margin: 16px 0 0;
+    line-height: 1.6;
+    color: white;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 1rem;
+}
+
+.niceimg4 {
+    width: 100%;
+    object-fit: fill;
+    height: 320px;
+}
+
+
+/* .row1 {
+    height: 20rem !important;
+} */
+
+.niceimg5 {
+    width: 100%;
+    height: 320px !important;
+}
+
+.card2 {
+    border-radius: 0% !important;
+    border: none !important;
+}
+
+.container_fluid {
+    margin-top: 6rem !important;
+}
+
+.learnbtn {
+    border-style: solid;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 26px auto 0 0;
+    border-width: 2px !important;
+    border-color: #a5935d !important;
+    color: #a5935d;
+    padding: 7px!important;
+}
+
+.paragraph1 {
+    line-height: 1.8 !important;
+    font-size: 1.125rem !important;
+    margin: 20px 0 0;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.floralheading {
+    font-weight: 400;
+    font-size: 1.5rem !important;
+    margin: 20px 191px 0 0 !important;
+    font-family: 'Montserrat', sans-serif !important;
+    line-height: 1.2 !important;
+}
+
+.maindiv {
+    width: 450px;
+    min-height: 363px;
+    margin: 71px auto 0 0;
+}
+
+.bg_circle {
+    width: 643px;
+    height: 643px;
+    margin: 69px auto 0 95px;
+    background-color: #d9ca9e;
+    border-radius: 50%;
+}
+
+.niceimg6 {
+    background-position: 50% 50%;
+    margin: -713px auto 0 0;
+    width: 587px;
+    height: 587px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.niceimg7 {
+    width: 301px;
+    height: 301px;
+    margin: -87rem 0px 0 50rem;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 0 100%;
+}
+
+.small_circle {
+    width: 125px;
+    height: 125px;
+    margin: -67.5rem 15rem 0 auto;
+    background-color: #355247;
+    border-radius: 50%;
+}
+
+.living_room {
+    font-size: 3rem;
+    margin: 40rem 0 0 750px;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 400 !important;
+    line-height: 1.2 !important;
+}
+
+.we_design {
+    line-height: 1.3;
+    font-size: 2.25rem;
+    font-weight: 700;
+    width: 75%;
+    color: white;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.design_deatils {
+    margin-top: 14rem;
+    width: 75%;
+    padding-top: 6rem;
+}
+
+.icon1 {
+    border-radius: 50%;
+    background-color: #e5e5e5 !important;
+    height: 94px;
+    width: 94px;
+    background-image: none;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.u-svg-content1 {
+    fill: #808080;
+}
+
+.project {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 23px auto 0;
+    line-height: 1.2;
+    font-family: 'Roboto', sans-serif !important;
+    color: #666666 !important;
+}
+
+.sample_text {
+    font-style: italic;
+    margin: 20px 0 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.card3 {
+    padding: 22px;
+    border-radius: 0 px;
+    border-radius: 0 !important;
+}
+
+.backgroundimg {
+    background-image: url(./images/nicepageimg8.jpg);
+    background-size: cover;
+}
+
+.niceimg3secondtime {
+    width: 254px;
+    height: 254px;
+    margin: 235px auto 0 71px;
+    border-radius: 50%;
+}
+
+.u-svg-content2 {
+    fill: #a5935d;
+}
+
+.svg2 {
+    width: 156px;
+    height: 155px;
+    margin: -340px auto 60px 384px;
+}
+
+.living_space {
+    font-weight: 300 !important;
+    margin: 0 auto 0 0;
+    font-size: 3rem !important;
+    line-height: 1.1 !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.paragraph {
+    font-size: 1.125rem !important;
+    margin: 33px 0 0;
+    font-family: 'Open Sans', sans-serif !important;
+    line-height: 1.6 !important;
+}
+
+.contain_div {
+    margin-top: 10rem;
+    width: 75%;
+    margin-left: 4rem;
+}
+
+.learnbtn1 {
+    margin: 47px auto 0 0;
+    color: #000000 !important;
+    border-width: 2px;
+    border-style: solid;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 10px 39px;
+    border-color: #000000 !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    background-color: white;
+}
+
+.niceimg9 {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin-top: -0.5rem;
+    margin-left: 7rem;
+}
+
+.niceimg10 {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 574px;
+    height: 574px;
+    margin: -293px 20px 0 auto;
+}
+
+.circle3 {
+    width: 200px;
+    height: 200px;
+    margin: -242px auto 0 95px;
+    background-color: #355247;
+    border-radius: 50%;
+}
+
+.design_space {
+    font-size: 3.75rem;
+    padding-top: 1rem;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif !important;
+    line-height: 1.1 !important;
+    font-weight: 400;
+}
+
+.carefully {
+    font-size: 1.125rem;
+    text-align: center;
+    margin: 13px auto 2rem;
+}
+
+.nicepage11 {
+    object-fit: cover;
+    width: 100%;
+    height: 416px;
+}
+
+.howservice {
+    font-weight: 400;
+    font-size: 1.875rem;
+    line-height: 1.2;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.heading_para {
+    padding: 20px 27px;
+    background-color: #e5e5e5;
+    height: 208px;
+    color: black;
+}
+
+.niceimg12 {
+    width: 100%;
+    object-fit: cover;
+    height: 208px;
+}
+
+.niceimg13 {
+    width: 100%;
+    object-fit: cover;
+    height: 208px;
+}
+
+.aboutus {
+    padding: 8px 0px;
+    background-color: #e5e5e5;
+    font-weight: 400;
+    font-size: 1.875rem;
+    line-height: 1.2;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.heading_para1 {
+    padding: 20px 27px;
+    background-color: #355247;
+    height: 208px;
+    color: white;
+}
+
+.howservice1 {
+    font-weight: 400;
+    font-size: 1.875rem;
+    line-height: 1.2;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.aboutus1 {
+    background-color: #e5e5e5;
+    font-weight: 700;
+    font-size: 2.25rem;
+    margin: 0;
+    line-height: 1.2 !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.svg3 {
+    width: 64px;
+    height: 64px;
+    margin: 30px auto 0 0;
+    fill: #355247;
+    margin-top: auto;
+}
+
+.niceimg15 {
+    width: 100% !important;
+    background-size: cover;
+    background-position: 50% 65%;
+    height: 208px;
+    background-image: url(./images/nicepageimg15.jpg);
+}
+
+.footer {
+    height: 15rem;
+    background-color: #333333;
+}
+
+.footer_para {
+    text-align: center;
+    color: white;
+}
+
+.footerpara {
+    width: 417px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3rem;
+}
+
+.footer_para1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.footer_link {
+    /* text-decoration: none; */
+    color: #d0e3dc;
+    text-decoration: underline;
+}
+
+.footerpara1 {
+    padding-top: 5rem;
+}
+
+.backgroundheight {
+    background-color: #333029;
+    color: white;
+    height: 68rem;
+}
+
+.font_size {
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+@media only screen and (max-width: 1025px) {
+    .navbar_main {
+        padding-left: 57.5rem !important;
+        margin-top: 5rem;
+    }
+    .container12 {
+        margin-top: 12rem;
+    }
+    .navbar_list {
+        width: 100% !important;
+    }
+    .pagelist {
+        column-gap: 1rem !important;
+        padding-left: 0rem !important;
+    }
+    .background_img_nicepage {
+        width: 930px;
+        /* height: 660px!important; */
+        object-fit: cover;
+    }
+    .interior_design {
+        margin: 145px 34px 60px auto !important;
+    }
+    .main_container {
+        height: 56rem !important;
+    }
+    .svg1 {
+        margin: -68px 59px 1px 419px !important;
+    }
+    .niceimg9 {
+        border-radius: 50%;
+        width: 400px !important;
+        height: 400px !important;
+        object-fit: cover;
+        margin-top: -9.5rem;
+        margin-left: 2rem;
+    }
+    .niceimg3secondtime {
+        margin: 106px auto 0 71px !important;
+    }
+    .circle3 {
+        margin: -346px auto 0 7px !important;
+    }
+    .niceimg10 {
+        width: 531px;
+        height: 531px;
+        margin: -181px 20px 0 auto !important;
+    }
+    .niceimg7 {
+        margin: -94rem 0px 0 41rem !important;
+    }
+    .living_room {
+        margin: 52rem 0 0 664px !important;
+    }
+    .design_deatils {
+        margin-top: 2rem !important;
+    }
+    .living_room {
+        font-size: 2.5rem !important;
+    }
+    .paddingright {
+        padding-right: 0px !important;
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    .paddingleft1 {
+        padding-left: 0px!important;
+    }
+    .backgroundheight {
+        height: 195rem !important;
+    }
+    .paddingright1 {
+        padding-right: 0px !important;
+    }
+    .nicepage11 {
+        height: 700px !important;
+    }
+    .heading_para,
+    .niceimg13,
+    .niceimg12,
+    .heading_para1,
+    .niceimg15 {
+        height: 350px !important;
+    }
+    .howservice,
+    .aboutus,
+    .howservice1,
+    .aboutus1 {
+        font-size: 2.875rem !important;
+    }
+    .font_size {
+        font-size: 1.6rem;
+    }
+    .svg3 {
+        padding-top: 2rem !important;
+    }
+    .pagelist {
+        margin-left: 6rem !important;
+        column-gap: 1.5rem !important;
+    }
+    .navbar_list {
+        justify-content: inherit !important;
+    }
+    .logo {
+        margin-left: 0px !important;
+    }
+    .navbar_main {
+        padding-left: 41.5rem !important;
+        margin-top: 6rem !important;
+    }
+    .small_circle {
+        margin: -67.5rem 8rem 0 auto !important;
+    }
+    .living_room {
+        margin: 63rem 0 0 422px !important;
+        font-size: 3rem !important;
+    }
+    .niceimg6 {
+        margin: -643px auto 0 0 !important;
+        width: 570px !important;
+        height: 570px !important;
+    }
+    .bg_circle {
+        width: 560px !important;
+        height: 560px !important;
+    }
+    .niceimg7 {
+        margin: -95rem 0px 0 26.5rem !important;
+    }
+    .niceimg3secondtime {
+        margin: 178px auto 0 0px !important;
+    }
+    .svg2 {
+        width: 156px !important;
+        height: 156px !important;
+        margin: -402px auto 0px 243px !important;
+    }
+    .living_space {
+        font-size: 3.4rem !important;
+        width: 100% !important;
+        padding-left: 20px !important;
+    }
+    .paragraph {
+        font-size: 1.365rem !important;
+        margin: 36px 0 0 !important;
+        width: 100% !important;
+        padding-left: 20px !important;
+    }
+    .niceimg9 {
+        margin-top: -15rem !important;
+        margin-left: 6rem !important;
+        width: 360px !important;
+        height: 360px !important;
+    }
+    .contain_div {
+        background-color: white;
+        width: 100% !important;
+        margin-left: 2rem !important;
+    }
+    .learnbtn1 {
+        margin-left: 20px !important;
+    }
+    .circle3 {
+        margin: -43rem auto 0 35px !important;
+        width: 175px !important;
+        height: 175px !important;
+    }
+    .niceimg10 {
+        width: 531px;
+        height: 531px;
+        margin-top: 12rem !important;
+        margin-left: 6rem !important;
+    }
+    .container12 {
+        margin-top: 37rem !important;
+    }
+    .background_img_nicepage {
+        width: 591px !important;
+        height: 675px!important;
+    }
+    .nicepageimg2 {
+        width: 340px !important;
+        height: 340px !important;
+    }
+    .svg1 {
+        width: 90px !important;
+        height: 90px !important;
+        margin: -68px 59px 1px 220px !important;
+    }
+    #circle {
+        margin: -11px auto 0 10px !important;
+    }
+    .description {
+        padding-top: 0px !important;
+    }
+    .container_fluid {
+        margin-top: 3rem !important;
+    }
+}
+
+@media only screen and (max-width: 426px) {
+    .pagelist {
+        display: none;
+    }
+    .navbar-nav {
+        flex-direction: row !important;
+    }
+    .navbar_main {
+        padding-left: 20.5rem !important;
+    }
+    .paragraph1 {
+        width: 94%;
+    }
+    .maindiv {
+        margin: 210px 20px 0 11px;
+        width: 100% !important;
+    }
+    .small_circle {
+        margin: -77.5rem 3rem 0 auto !important;
+    }
+    .niceimg7 {
+        margin: -67rem 0px 0 3.5rem !important;
+    }
+    .bg_circle {
+        width: 263px !important;
+        height: 263px !important;
+        margin: 395px auto 0 113px !important;
+    }
+    .niceimg6 {
+        margin: -305px auto 0 36px !important;
+        width: 304px !important;
+        height: 304px !important;
+    }
+    .living_room {
+        margin: 70rem 0 0 4rem !important;
+    }
+    .we_design {
+        width: 100% !important;
+        padding-bottom: 2rem !important;
+    }
+    .row12 {
+        margin-top: 0px !important;
+    }
+    .card3 {
+        margin-bottom: 20px !important;
+    }
+    .svg2 {
+        margin: -402px auto 0px 234px !important;
+    }
+    .contain_div {
+        margin-top: 18rem;
+        width: 305px !important;
+        margin-left: 6.5rem !important;
+    }
+    .niceimg3secondtime {
+        margin: 200px auto 0 25px !important;
+    }
+    .circle3 {
+        margin: -32rem auto 0 16px !important;
+    }
+    .niceimg9 {
+        margin-top: 3.5rem !important;
+        margin-left: 48px !important;
+        width: 300px !important;
+        height: 300px !important;
+    }
+    .container12 {
+        margin-top: 25rem !important;
+    }
+    .niceimg10 {
+        width: 300px;
+        height: 300px !important;
+        margin-top: 15rem !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .footer {
+        margin-top: 83rem !important;
+    }
+    .description {
+        padding-top: 30px !important;
+    }
+    .navbar_list {
+        width: 100% !important;
+    }
+    .background_img_nicepage {
+        width: 351px !important;
+        height: 290px!important;
+    }
+    .interior_design {
+        margin: 145px 34px 60px auto !important;
+        width: 100% !important;
+    }
+    .living_space {
+        width: 100% !important;
+        font-size: 1.5rem !important;
+    }
+    .paragraph {
+        font-size: 1.125rem !important;
+    }
+    .sample-text {
+        margin: 16px 0 20px !important;
+    }
+    .interior_design {
+        margin: 38rem 43px 0px auto !important;
+        width: 340px !important;
+    }
+    .decoration {
+        font-size: 3rem !important;
+    }
+    #circle {
+        margin: -90px auto 0 10px !important;
+    }
+    .paddingright {
+        padding-right: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 376px) {
+    .navbar_main {
+        padding-left: 17.5rem !important;
+    }
+    .contain_div {
+        margin-top: 20rem;
+        width: 305px !important;
+        margin-left: 2.5rem !important;
+    }
+    .niceimg6 {
+        margin: -305px auto 0 14px !important;
+    }
+    .bg_circle {
+        margin: 395px auto 0 89px !important;
+    }
+    .svg2 {
+        margin: -425px auto 0px 183px !important;
+    }
+    .niceimg9 {
+        width: 300px !important;
+        height: 300px !important;
+        margin-top: -9.5rem;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .niceimg10 {
+        width: 310px !important;
+        height: 310px !important;
+        margin-top: 14rem !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .circle3 {
+        margin: -32rem auto 0 16px !important;
+    }
+    .svg1 {
+        margin: -68px 0px 1px 220px !important;
+    }
+    .interior_design {
+        margin: 38rem 0px 0px 37px!important;
+        width: 308px !important;
+    }
+    .background_img_nicepage {
+        width: 300px !important;
+        height: 300px!important;
+    }
+    .niceimg7 {
+        margin: -67rem 0px 0 1.5rem !important;
+    }
+    .footerpara {
+        width: 100% !important;
+    }
+    .container12 {
+        margin-top: 24rem !important;
+    }
+    .footerpara1 {
+        padding-top: 3rem !important;
+    }
+    .footer {
+        height: 17rem !important;
+        margin-top: 89rem !important;
+    }
+    .paddingright {
+        padding-right: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    .navbar_main {
+        padding-left: 13.5rem !important;
+    }
+    .interior_design {
+        margin: 38rem 0px 0px 11px!important;
+        width: 300px !important;
+    }
+    .svg1 {
+        margin: -69px 0px 1px 203px !important;
+    }
+    .nicepageimg2 {
+        width: 290px !important;
+        height: 290px !important;
+    }
+    .svg2 {
+        margin: -425px auto 0px 144px !important;
+    }
+    .niceimg7 {
+        width: 270px !important;
+        height: 270px !important;
+        margin: -63rem 0px 0 0.5rem !important;
+    }
+    .niceimg6 {
+        margin: -305px auto 0 9px !important;
+        width: 249px !important;
+        height: 240px !important;
+    }
+    .bg_circle {
+        margin: 395px auto 0 37px !important;
+        width: 253px !important;
+        height: 253px !important;
+    }
+    .small_circle {
+        margin: -81.5rem 1rem 0 auto !important;
+    }
+    .living_room {
+        margin: 72rem 0 0 1rem !important;
+    }
+    .contain_div {
+        margin-top: 20rem;
+        width: 305px !important;
+        margin-left: -1rem !important;
+    }
+    .maindiv {
+        margin: 197px 20px 0 11px !important;
+    }
+    .niceimg9 {
+        width: 250px !important;
+        height: 250px !important;
+        margin-top: 2.5rem;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .niceimg10 {
+        width: 290px !important;
+        height: 290px !important;
+    }
+    .footer {
+        margin-top: 94rem !important;
+    }
+    .paddingright {
+        padding-right: 15px !important;
+    }
+}
